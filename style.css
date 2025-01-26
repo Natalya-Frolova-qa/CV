@@ -1,0 +1,14 @@
+.love {
+    color: purple;
+    margin-left: 400px;
+    font-family: Helvetica;	
+    font-size: 40px;
+}
+
+#contacts {
+     color: purple;
+}
+
+.love:hover {
+	color: yellow;
+}
